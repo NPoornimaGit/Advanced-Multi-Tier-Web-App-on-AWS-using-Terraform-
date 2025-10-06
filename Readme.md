@@ -4,7 +4,7 @@ This project provisions a modular, production-style 2-tier architecture on AWS u
 
 - ✅ VPC with public/private subnets across 2 AZs
 - 🌐 Internet Gateway + NAT Gateway
-- 🖥️ EC2 instances running Apache + Flask
+- 🖥️ EC2 instances running httpd webserver
 - ⚖️ Application Load Balancer (ALB)
 - 🗄️ RDS (MySQL) with secure connectivity
 - 🔐 Security groups and route tables
