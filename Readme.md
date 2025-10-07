@@ -16,10 +16,10 @@ This project provisions a modular, production-style 2-tier architecture on AWS u
 ## 🚀 Deployment Instructions
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/terraform-aws-2tier-app.git
-cd terraform-aws-2tier-app
 
+git clone https://github.com/your-username/terraform-aws-2tier-app.git
+
+cd terraform-aws-2tier-app
 
 ### 2. Initialize Terraform
 
@@ -30,6 +30,7 @@ terraform init
 terraform plan
 
 ### 4. Apply the Infrastructure
+
 terraform apply
 
 ## 🌐 Application Behavior
